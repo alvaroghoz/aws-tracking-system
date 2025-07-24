@@ -25,10 +25,10 @@ tracking-system/
 ├── deploy/
 │   └── guia_despliegue_tracking.pdf
 ├── docs/
-│   ├── trackingsystem.drawio.pdf.png
+│   ├── trackingsystem.drawio.pdf
 │   ├── buenas-practicas aplicadas.pdf
 │   ├── demostracion.pdf
-│   └── justificacion-diseno.pdf
+│   └── Justificacion-diseno.pdf
 ├── evento-ejemplo/
 │   └── evento.json
 ├── .zip/
@@ -42,7 +42,7 @@ tracking-system/
 
 ## 🚀 Cómo desplegar
 
-Consulta el archivo [`guia_despliegue_tracking.docx`](deploy/guia_despliegue_tracking.docx) para seguir el paso a paso de despliegue de la arquitectura completa.
+Consulta el archivo [`guia_despliegue_tracking.pdf`](deploy/guia_despliegue_tracking.pdf) para seguir el paso a paso de despliegue de la arquitectura completa.
 
 ---
 
@@ -60,11 +60,11 @@ Consulta el archivo [`guia_despliegue_tracking.docx`](deploy/guia_despliegue_tra
 
 ## 📄 Documentación
 
-- **Diagrama de arquitectura**: `docs/diagrama-arquitectura.png`
-- **Justificación técnica**: `docs/justificacion-diseno.md`
-- **Buenas prácticas aplicadas**: `docs/buenas-practicas.md`
+- **Diagrama de arquitectura**: `docs/TrackingSystem.drawio.pdf`
+- **Justificación técnica**: `docs/justificacion-diseno.pdf`
+- **Buenas prácticas aplicadas**: `docs/buenas-practicas aplicadas.pdf`
 - **Demostración visual**: `docs/demostracion.pdf`
-- **Guía técnica**: `deploy/guia_despliegue_tracking.docx`
+- **Guía técnica**: `deploy/guia_despliegue_tracking.pdf`
 
 ---
 
