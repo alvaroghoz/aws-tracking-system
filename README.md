@@ -23,12 +23,12 @@ tracking-system/
 │   ├── procesar_evento.py
 │   └── generar_reporte.py
 ├── deploy/
-│   └── guia_despliegue_tracking.docx
+│   └── guia_despliegue_tracking.pdf
 ├── docs/
-│   ├── diagrama-arquitectura.png
-│   ├── buenas-practicas.md
+│   ├── trackingsystem.drawio.pdf.png
+│   ├── buenas-practicas aplicadas.pdf
 │   ├── demostracion.pdf
-│   └── justificacion-diseno.md
+│   └── justificacion-diseno.pdf
 ├── evento-ejemplo/
 │   └── evento.json
 ├── .zip/
