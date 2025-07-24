@@ -1,0 +1,13 @@
+{
+  "device_mac": "AA:BB:CC:DD:EE:FF",
+  "vendor": "Apple",
+  "detected_at": "2025-07-24T21:00:00Z",
+  "ap_mac": "00:11:22:33:44:55",
+  "rssi": -60,
+  "ssid": "Oficina-Invitados",
+  "location": {
+    "building": "Sede Central",
+    "floor": 1,
+    "zone": "Recepción"
+  }
+}
