@@ -35,7 +35,7 @@ tracking-system/
 │   ├── lambda-procesar.zip
 │   └── lambda-reporte.zip
 ├── README.md
-└── informe-final.pdf
+
 ```
 
 ---
